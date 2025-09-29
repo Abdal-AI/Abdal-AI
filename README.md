@@ -1,4 +1,4 @@
-# Hi there, I'm Abdal-AI 👋
+# Hi there, I'm Abdal KHAN 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdal-AI&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Abdal-AI?label=Followers&style=flat-square)
@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about developing intelligent system
 - Data Engineering
 
 ## 💬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(replace with your link)*
-- 📧 Email: your.email@example.com *(replace with your email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdal-619451299/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPr5K01QTS%2FO95KvbBTOJ8g%3D%3D) 
+- 📧 Email: abdalkhan1514@gmail.com
 
 ## 📊 GitHub Stats
 
