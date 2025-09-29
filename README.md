@@ -1,5 +1,11 @@
 # Hi there, I'm Abdal-AI 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdal-AI&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Abdal-AI?label=Followers&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/Abdal-AI?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Abdal-AI/Face-Recognition-Attendance-System?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Abdal-AI/Face-Recognition-Attendance-System?style=flat-square)
+
 Welcome to my GitHub profile! I'm passionate about developing intelligent systems and contributing to open-source projects. Here you'll find a collection of my work in machine learning, computer vision, data science, and more.
 
 ## 🚀 About Me
