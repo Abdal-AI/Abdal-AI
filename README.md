@@ -1,41 +1,98 @@
-# Hi there, I'm Abdal KHAN 👋
+<h1 align="center">
+  Hi 👋, I'm Muhammad Abdal Khan  
+</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdal-AI&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Abdal-AI?label=Followers&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/Abdal-AI?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Abdal-AI/Face-Recognition-Attendance-System?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/Abdal-AI/Face-Recognition-Attendance-System?style=flat-square)
+<h3 align="center">
+  🚀 AI Enthusiast | Python Developer | Machine Learning Engineer
+</h3>
 
-Welcome to my GitHub profile! I'm passionate about developing intelligent systems and contributing to open-source projects. Here you'll find a collection of my work in machine learning, computer vision, data science, and more.
-
-## 🚀 About Me
-- 🤖 AI Enthusiast and Developer
-- 📚 Lifelong learner, interested in the latest technologies and research
-- 🧩 Open-source contributor
-- 📝 Sharing knowledge through code and projects
-
-## 🏆 Featured Projects
-
-- [Face Recognition Attendance System](https://github.com/Abdal-AI/Face-Recognition-Attendance-System): An automated attendance system using face recognition technology.
-- [DATA-SET](https://github.com/Abdal-AI/DATA-SET): A collection of datasets for machine learning and data science projects.
-- [Linear Algebra for ML](https://github.com/Abdal-AI/linear-algebra-for-ml): Essential linear algebra concepts explained for machine learning practitioners.
-- [INTERNSHIP-TASK](https://github.com/Abdal-AI/INTERNSHIP-TASK): Tasks and solutions from my internship experience.
-- [SEABORN](https://github.com/Abdal-AI/SEABORN): Visualizations and tutorials using the Seaborn library.
-
-## 🌱 Currently Learning
-- Deep Learning & Neural Networks
-- Advanced Computer Vision
-- Data Engineering
-
-## 💬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdal-619451299/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPr5K01QTS%2FO95KvbBTOJ8g%3D%3D) 
-- 📧 Email: abdalkhan1514@gmail.com
-
-## 📊 GitHub Stats
-
-![Abdal-AI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdal-AI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdal-AI&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;Open+Source+Contributor;Lifelong+Learner" />
+</p>
 
 ---
 
-⭐️ Feel free to explore my repositories and reach out for collaboration!
+## 🧠 About Me
+
+- 🤖 AI & Machine Learning Enthusiast  
+- 🐍 Python Expert with strong fundamentals  
+- 📊 Passionate about Data Science & Visualization  
+- 🧠 Exploring **Deep Learning & Neural Networks**  
+- 🌱 Currently learning **Advanced Computer Vision & Data Engineering**  
+- 💡 Love building real-world AI projects  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,numpy,pandas,sklearn,seaborn,matplotlib,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Face Recognition Attendance System**  
+> Automated attendance using face recognition technology  
+
+🔹 **Linear Algebra for Machine Learning**  
+> Core math concepts explained for ML practitioners  
+
+🔹 **Seaborn Visualizations**  
+> Beautiful data visualizations & tutorials  
+
+🔹 **Internship Tasks**  
+> Real-world problems solved during internship  
+
+🔹 **Dataset Collection**  
+> Ready-to-use datasets for ML & Data Science  
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Deep Learning & Neural Networks  
+- 👁️ Advanced Computer Vision  
+- 🛢️ Data Engineering  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdal-AI&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdal-AI&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdal-AI&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abdal-619451299">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:abdalkhan1514@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.kaggle.com/muhammadabdal123">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and connect for collaboration!**
