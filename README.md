@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdal-AI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Abdal-AI?label=Followers&style=flat&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Abdal-AI?label=Stars&style=flat&color=yellow" alt="stars"/>
+</p>
+
 <h1 align="center">
   Hi 👋, I'm Muhammad Abdal Khan  
 </h1>
